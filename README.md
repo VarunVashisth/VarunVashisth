@@ -1,4 +1,4 @@
-<h1 align="left">Hallo Myself Varizz :<br>a ECE engineer in CSE field <br><br>Welcome To My Github</h1>
+<h1 align="left">Hello Myself Varizz :<br>a ECE engineer in CSE field <br><br>Welcome To My Github</h1>
 
 ###
 
