@@ -39,7 +39,12 @@
     <circle cx="100" cy="100" r="67" stroke-opacity=".38"/>
     <path d="M100 4V196M4 100H196" stroke-opacity=".25"/>
     <path d="M44 156 156 44M44 44l112 112" stroke-opacity=".12"/>
-    <path d="M48 66h31l21 65 21-65h31l-36 98H84Z" fill="#f5f5f7" stroke="none"/>
+    <path d="M42 57h30l34 82-18 27Z" fill="#f5f5f7" stroke="none"/>
+    <path d="M128 57h30l-46 109H88l17-28Z" fill="#a1a1a6" stroke="none"/>
+    <path d="M105 138l7 28H88Z" fill="#f5f5f7" stroke="none"/>
+    <path d="M42 49h116" stroke="#f5f5f7" stroke-opacity=".32"/>
+    <circle cx="42" cy="49" r="2" fill="#f5f5f7" stroke="none"/>
+    <circle cx="158" cy="49" r="2" fill="#f5f5f7" stroke="none"/>
     <circle cx="100" cy="4" r="3" fill="#f5f5f7"/>
     <circle cx="196" cy="100" r="3" fill="#f5f5f7"/>
   </g>
