@@ -1,84 +1,93 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Varun Vashisth — building intelligent digital experiences" />
+  <a href="https://varunvashisth.in">
+    <img src="./assets/hero.svg" width="100%" alt="VARIZZ — concept to design to backend to deployment" />
+  </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/VarunVashisth?tab=followers"><img src="https://img.shields.io/github/followers/VarunVashisth?style=for-the-badge&logo=github&label=Followers&color=7c3aed" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=VarunVashisth&style=for-the-badge&color=06b6d4&label=PROFILE+VIEWS" alt="Profile views" />
+  <a href="https://varunvashisth.in"><b>PORTFOLIO</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/varun-vashisth-a17b08290"><b>LINKEDIN</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@Varizz2006"><b>YOUTUBE</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://www.behance.net/varunvashisth"><b>BEHANCE</b></a>
 </div>
 
 <br />
 
-## `> whoami`
+<table>
+  <tr>
+    <td width="18%"><code>00 // PROFILE</code></td>
+    <td>
+      <h3>Backend engineer with a designer's eye.</h3>
+      I build APIs, developer tools, and digital products from the system underneath to the interface on top. My work sits between <b>backend engineering</b>, <b>product thinking</b>, and <b>visual design</b>: reliable enough to ship, clear enough to use, and considered enough to remember.
+    </td>
+  </tr>
+</table>
 
-```python
-class Varun:
-    role = "Developer & AI Explorer"
-    code = ["Python", "Java", "JavaScript", "TypeScript"]
-    interests = ["Artificial Intelligence", "Machine Learning", "Web Development"]
-    current_mission = "Turning ambitious ideas into useful software"
-
-    def say_hi(self):
-        return "Thanks for dropping by — let's build something remarkable."
+```text
+CURRENTLY  ECE @ IIIT Nagpur · Backend Engineering · Developer Tooling · Product Design
+BUILDING   systems that remove friction instead of adding another dashboard
+BELIEF     good engineering and good design are the same conversation
 ```
 
-I enjoy working where **intelligent systems meet thoughtful interfaces** — experimenting, learning fast, and shipping ideas that feel useful. My toolbox spans backend logic, machine learning, and modern web experiences.
+## `01 // FEATURED PRODUCT`
 
-<br />
+<h3 align="center">REQUESTVAULT</h3>
+<p align="center"><i>API observability without the log-digging ritual.</i></p>
 
-## Tech constellation
+<p align="center">
+  <a href="https://requestvault-ten.vercel.app/"><b>LIVE PRODUCT ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/VarunVashisth/RequestVault"><b>SOURCE ↗</b></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://pypi.org/project/requestvault/"><b>PYPI ↗</b></a>
+</p>
 
-<div align="center">
+RequestVault watches outbound Python HTTP requests and turns them into a clean stream of responses, failures, latency, and usage data. The product combines a lightweight Python SDK with a full analytics platform, built to make debugging third-party APIs considerably less painful.
 
-### Languages
+| SYSTEM | INTERFACE | INFRASTRUCTURE |
+| :--- | :--- | :--- |
+| Python SDK · FastAPI · SQLAlchemy | React · TypeScript · Recharts | PostgreSQL · Redis · Docker |
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" alt="Python, Java, JavaScript, TypeScript, HTML and CSS" />
+## `02 // SELECTED SYSTEMS`
 
-### AI, web & data
+| ID | PROJECT | WHAT IT DOES | CORE |
+| :-- | :-- | :-- | :-- |
+| `02.1` | **[Drixx](https://github.com/VarunVashisth/Death_Notifier-)** | Local-first attention system that turns activity, idle time, and daily intentions into honest feedback. | Rust · Tauri · React · SQLite |
+| `02.2` | **[Twizz](https://github.com/VarunVashisth/twizz)** | Human-in-the-loop editorial pipeline for discovering, verifying, and shaping technical ideas. | Python · FastAPI · SQLite · LLMs |
+| `02.3` | **[Varizz AI](https://github.com/VarunVashisth/Varizz)** | Private, self-hosted personal assistant built around voice, local execution, and deep personalization. | Electron · Python · Ollama · LLMs |
+| `02.4` | **[TARIZZ](https://github.com/VarunVashisth/Tarizz)** | Encrypted desktop workspace for projects, notes, flowcharts, planning, and private journaling. | Python · PyQt6 · SQLite · Cryptography |
+| `02.5` | **[Disputo](https://disputo.vercel.app/)** | Interactive AI debate simulator for testing arguments and exploring opposing perspectives. | React · JavaScript · Groq |
+| `02.6` | **[CATCH.PNG](https://catch-png.vercel.app/)** | A tiny web game about catching a pixel that has no intention of cooperating. | HTML · CSS · JavaScript |
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,react,nodejs,fastapi&theme=dark" alt="PyTorch, TensorFlow, scikit-learn, React, Node.js and FastAPI" />
+## `03 // COMPETENCY MATRIX`
 
-### Tools & platforms
+```text
+BACKEND      Python · FastAPI · API design · Auth · PostgreSQL · Redis · System design
+PRODUCT      TypeScript · JavaScript · React · Desktop apps · Performance · Prototyping
+AI / DATA    LLM integrations · Ollama · PyTorch · TensorFlow · scikit-learn
+DESIGN       UI/UX · Design systems · Figma · Typography · Visual identity · Motion
+TOOLS        Git · Docker · Linux · Tauri · Electron · PyQt6 · Adobe Creative Suite
+```
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,mysql,mongodb,vscode&theme=dark" alt="Git, GitHub, Docker, MySQL, MongoDB and VS Code" />
+The overlap is intentional. When I design an interface, I am already thinking about the API response and database shape behind it. When I build a backend, I am thinking about how latency, errors, and state will feel to the person using it.
 
-</div>
-
-<br />
-
-## Current coordinates
-
-- 🧠 Exploring practical **AI/ML** and the systems that make it useful
-- ⚛️ Crafting responsive experiences with **React** and modern JavaScript
-- ☕ Building solid foundations with **Java** and clean architecture
-- 🐍 Automating ideas and solving problems with **Python**
-- 🌱 Always learning, always iterating, always open to collaboration
-
-<br />
-
-## GitHub telemetry
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VarunVashisth&show_icons=true&hide_border=true&bg_color=00000000&title_color=a78bfa&icon_color=22d3ee&text_color=cbd5e1&rank_icon=github" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VarunVashisth&show_icons=true&hide_border=true&bg_color=00000000&title_color=7c3aed&icon_color=0891b2&text_color=334155&rank_icon=github" alt="Varun's GitHub statistics" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVashisth&layout=compact&hide_border=true&bg_color=00000000&title_color=a78bfa&text_color=cbd5e1&langs_count=8" />
-    <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVashisth&layout=compact&hide_border=true&bg_color=00000000&title_color=7c3aed&text_color=334155&langs_count=8" alt="Varun's most used languages" />
-  </picture>
-</div>
+## `04 // SIGNAL`
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=VarunVashisth&hide_border=true&background=00000000&stroke=334155&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B" />
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=VarunVashisth&hide_border=true&background=00000000&stroke=cbd5e1&ring=7C3AED&fire=0891B2&currStreakLabel=7C3AED&sideLabels=334155&currStreakNum=0F172A&sideNums=0F172A&dates=64748B" alt="Varun's contribution streak" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VarunVashisth&show_icons=true&hide_border=true&hide_title=true&bg_color=020015&text_color=A1A1A6&icon_color=F5F5F7&ring_color=F5F5F7" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api?username=VarunVashisth&show_icons=true&hide_border=true&hide_title=true&bg_color=FFFFFF&text_color=707075&icon_color=121214&ring_color=121214" alt="Varun's GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVashisth&layout=compact&hide_border=true&hide_title=true&bg_color=020015&text_color=A1A1A6&langs_count=6" />
+    <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunVashisth&layout=compact&hide_border=true&hide_title=true&bg_color=FFFFFF&text_color=707075&langs_count=6" alt="Varun's most used languages" />
   </picture>
 </div>
 
 <br />
-
-## Contribution orbit
 
 <div align="center">
   <picture>
@@ -87,12 +96,12 @@ I enjoy working where **intelligent systems meet thoughtful interfaces** — exp
   </picture>
 </div>
 
-<br />
+---
 
 <div align="center">
-  <a href="https://github.com/VarunVashisth?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories" />
-  </a>
+  <code>05 // CONNECTION</code>
+  <h3>Have a product concept or a systems problem worth obsessing over?</h3>
+  <a href="mailto:varunvashisth2006@gmail.com"><b>LET'S BUILD SOMETHING →</b></a>
   <br /><br />
-  <sub>Ideas → experiments → useful things.</sub>
+  <sub>Designed and engineered by Varun Vashisth · Pune, India</sub>
 </div>

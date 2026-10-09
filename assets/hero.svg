@@ -1,17 +1,46 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Varun Vashisth</title>
-  <desc id="desc">Developer and AI explorer building intelligent digital experiences</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">VARIZZ — Varun Vashisth</title>
+  <desc id="desc">Backend engineer and multidisciplinary creator. Concept to design to backend to deployment.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#070b1a"/><stop offset=".5" stop-color="#11133a"/><stop offset="1" stop-color="#071827"/></linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#34d399"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#7c3aed" stop-opacity=".35"/><stop offset="1" stop-color="#7c3aed" stop-opacity="0"/></radialGradient>
-    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
-    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#94a3b8" stroke-opacity=".08"/></pattern>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".045"/>
+    </pattern>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ffffff"/>
+      <stop offset=".68" stop-color="#ffffff"/>
+      <stop offset=".68" stop-color="#636366"/>
+      <stop offset="1" stop-color="#636366"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <circle cx="160" cy="50" r="190" fill="url(#glow)" filter="url(#blur)"/><circle cx="1050" cy="310" r="190" fill="#06b6d4" opacity=".1" filter="url(#blur)"/>
-  <g fill="none" stroke="url(#accent)" stroke-opacity=".7"><path d="M76 269C174 197 211 309 307 232S465 181 546 224"/><circle cx="76" cy="269" r="5" fill="#8b5cf6"/><circle cx="307" cy="232" r="5" fill="#22d3ee"/><circle cx="546" cy="224" r="5" fill="#34d399"/></g>
-  <g font-family="Segoe UI, Arial, sans-serif" text-anchor="middle"><text x="600" y="139" fill="#f8fafc" font-size="58" font-weight="700" letter-spacing="2">VARUN VASHISTH</text><rect x="354" y="168" width="492" height="3" rx="2" fill="url(#accent)"/><text x="600" y="211" fill="#cbd5e1" font-size="21" letter-spacing="5">DEVELOPER  •  AI EXPLORER  •  BUILDER</text><text x="600" y="256" fill="#64748b" font-size="16" letter-spacing="2">turning curiosity into code</text></g>
-  <g fill="#22d3ee"><circle cx="1020" cy="88" r="3"><animate attributeName="opacity" values=".2;1;.2" dur="2.3s" repeatCount="indefinite"/></circle><circle cx="1070" cy="122" r="2"><animate attributeName="opacity" values="1;.2;1" dur="1.8s" repeatCount="indefinite"/></circle><circle cx="1110" cy="74" r="4"><animate attributeName="opacity" values=".3;1;.3" dur="3s" repeatCount="indefinite"/></circle></g>
-  <rect x="1" y="1" width="1198" height="358" rx="23" fill="none" stroke="url(#accent)" stroke-opacity=".35" stroke-width="2"/>
+
+  <rect width="1200" height="430" rx="8" fill="#020015"/>
+  <rect width="1200" height="430" rx="8" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="428" rx="7" fill="none" stroke="#9a9a9e" stroke-opacity=".55"/>
+
+  <g font-family="'Geist Mono','SFMono-Regular',Consolas,monospace" fill="#a1a1a6" font-size="13">
+    <text x="54" y="53">VARUN VASHISTH / PORTFOLIO</text>
+    <text x="1146" y="53" text-anchor="end">PUNE, IN / 2026</text>
+    <text x="54" y="393">BACKEND ENGINEERING · PRODUCT · UI/UX</text>
+    <text x="1146" y="393" text-anchor="end">AVAILABLE FOR INTERESTING PROBLEMS ↗</text>
+  </g>
+
+  <path d="M54 75H1146" stroke="#9a9a9e" stroke-opacity=".55"/>
+  <path d="M54 365H1146" stroke="#9a9a9e" stroke-opacity=".55"/>
+
+  <g transform="translate(54 112)">
+    <text x="0" y="34" fill="#a1a1a6" font-family="'Geist Mono','SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="1">MULTIDISCIPLINARY CREATOR</text>
+    <text x="0" y="111" fill="#f5f5f7" font-family="'Geist','Segoe UI',Arial,sans-serif" font-size="60" font-weight="700">CONCEPT → DESIGN</text>
+    <text x="0" y="181" fill="#636366" font-family="'Geist','Segoe UI',Arial,sans-serif" font-size="60" font-weight="700">BACKEND → DEPLOYMENT.</text>
+    <rect x="0" y="212" width="730" height="3" fill="url(#rule)"/>
+  </g>
+
+  <g transform="translate(944 112)" fill="none" stroke="#f5f5f7">
+    <circle cx="100" cy="100" r="96" stroke-opacity=".18"/>
+    <circle cx="100" cy="100" r="67" stroke-opacity=".38"/>
+    <path d="M100 4V196M4 100H196" stroke-opacity=".25"/>
+    <path d="M44 156 156 44M44 44l112 112" stroke-opacity=".12"/>
+    <path d="M48 66h31l21 65 21-65h31l-36 98H84Z" fill="#f5f5f7" stroke="none"/>
+    <circle cx="100" cy="4" r="3" fill="#f5f5f7"/>
+    <circle cx="196" cy="100" r="3" fill="#f5f5f7"/>
+  </g>
 </svg>
